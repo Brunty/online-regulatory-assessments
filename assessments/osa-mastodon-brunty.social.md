@@ -17,7 +17,7 @@ Thanks to [Neil Brown](https://onlinesafetyact.co.uk/ra_my_self_hosted_single_us
 | Date       | Version | Nature of change (created / reviewed / updated) | Who completed the risk assessment | Who approved the risk assessment |
 |------------|---|---|---|---|
 | 2025-03-10 | 0.1 | Created | Matt Brunt | Matt Brunt |
-| 2026-03-01 | 0.2 | Reviewed | Matt Brunt | Matt Brunt |
+| 2026-03-01 | 0.1 | Reviewed | Matt Brunt | Matt Brunt |
 
 ## Ofcom's suggested steps
  - Step 1: Understand the kinds of illegal content that need to be assessed
