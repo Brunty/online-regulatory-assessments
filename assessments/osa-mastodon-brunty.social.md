@@ -11,12 +11,13 @@ Thanks to [Neil Brown](https://onlinesafetyact.co.uk/ra_my_self_hosted_single_us
 | The service to which the risk assessment relates| My self-hosted, single-user, Mastodon instance (brunty.social) |
 | The named person responsible for the risk assessment | Matt Brunt |
 | The findings of this risk assessment have been reported and recorded through appropriate governance channels| Yes: logged in this document |
-| Next scheduled review date | 2026-03-10 |
+| Next scheduled review date | 2027-03-01 |
 
 ## Document history 
 | Date       | Version | Nature of change (created / reviewed / updated) | Who completed the risk assessment | Who approved the risk assessment |
 |------------|---|---|---|---|
 | 2025-03-10 | 0.1 | Created | Matt Brunt | Matt Brunt |
+| 2026-03-01 | 0.2 | Reviewed | Matt Brunt | Matt Brunt |
 
 ## Ofcom's suggested steps
  - Step 1: Understand the kinds of illegal content that need to be assessed
